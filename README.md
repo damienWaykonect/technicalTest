@@ -39,9 +39,9 @@ Affichage par carte :
 Affichage par liste :
 
 - Afficher des cellules contenant
-o Nom  
-o Téléphone -> permet de lancer un appel (si disponible)
-o Email -> permet d’envoyer un email (si disponible)
+  - Nom  
+  - Téléphone -> permet de lancer un appel (si disponible)
+  - Email -> permet d’envoyer un email (si disponible)
 
 - On pourra trier les Poi par ordre du WS (default) ou par distance par rapport à l’utilisateur (via un switch)
 
