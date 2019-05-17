@@ -1,7 +1,5 @@
 # technicalTest
 
-Entrant :
-
 WS :
 - https://etablissements-publics.api.gouv.fr/v1/organismes/59/mairie
 - https://etablissements-publics.api.gouv.fr/v1/organismes/59/gendarmerie
@@ -45,3 +43,5 @@ Affichage par liste :
 - On pourra trier les Poi par ordre du WS (default) ou par distance par rapport à l’utilisateur (via un switch)
 
 - On pourra filtrer les Poi via une recherche sur le nom ou le code postal
+
+Bonne chance!
