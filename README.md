@@ -19,18 +19,17 @@ Utiliser un des principes du langage objet.
 
 On pourra utiliser une librairie pour l’appel au WS.
 
-Développez une application Android (Kotlin) qui comportera deux partie :
+Développez une application Android (Kotlin) qui comportera deux parties :
+
 Affichage par carte :
 
-- Afficher les Poi précédemment récupérer et les afficher sur la carte.
+- Afficher les Poi précédemment récupérer et les afficher sur la carte en distingant les mairies des gendarmeries (images différentes).
 
 - On Affichera la position de l’utilisateur
 
-- Lors de la sélection d’une annotation, on calculera et on affichera le chemin entre l’utilisateur et l’annotation.
+- On pourra filtrer les marqueurs par l’option d’accessibilité des données sur WS (via un switch ou un autre composant)
 
-- On pourra filtrer les annotations par l’option d’accessibilité des données sur WS (via un switch)
-
-- On pourra filtrer les annotations par distance (30 km autour de l’utilisateur)
+- On pourra filtrer les marqueurs par distance (30 km autour de l’utilisateur)
 
 - Ces deux filtres sont cumulables.
 
